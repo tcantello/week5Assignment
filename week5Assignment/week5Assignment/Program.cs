@@ -66,13 +66,13 @@ namespace week5Assignment
             Console.WriteLine();
             Console.WriteLine();
 
-            int factorial = 1;
+            ulong factorial = 1;
 
             Console.WriteLine("Please enter a number: ");
-            int userInput = Convert.ToInt32(Console.ReadLine());
+            ulong userInput = Convert.ToUInt64(Console.ReadLine());
 
-            for (int i = 1; i <= userInput; i++)
-            {
+            for (ulong i = 1; i <= userInput; i++)
+            { 
                 factorial *= i;
             }
             Console.WriteLine("The factorial of " + userInput + " is " + userInput + "! = " + factorial);

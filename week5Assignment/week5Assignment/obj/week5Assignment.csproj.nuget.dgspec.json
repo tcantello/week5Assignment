@@ -1,36 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tcant\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment.csproj": {}
+    "C:\\Users\\S7718424\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment\\week5Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tcant\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment.csproj": {
+    "C:\\Users\\S7718424\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment\\week5Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tcant\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\S7718424\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment\\week5Assignment.csproj",
         "projectName": "week5Assignment",
-        "projectPath": "C:\\Users\\tcant\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment.csproj",
-        "packagesPath": "C:\\Users\\tcant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tcant\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\obj\\",
+        "projectPath": "C:\\Users\\S7718424\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment\\week5Assignment.csproj",
+        "packagesPath": "C:\\Users\\S7718424\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\S7718424\\source\\repos\\tcantello\\week5Assignment\\week5Assignment\\week5Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\S7718424\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
